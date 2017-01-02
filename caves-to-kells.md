@@ -3,10 +3,10 @@
 Caves to kells
 ---------------------
 
--Inslur Script
--Blockletter
--Johnnes Guttenberg (Guttenberg Bible)
--Consistency throughout
+* Inslur Script
+* Blockletter
+* Johnnes Guttenberg (Guttenberg Bible)
+* Consistency throughout
 
 ###Some designers
 
@@ -22,22 +22,23 @@ Caves to kells
 ###Type designers
 
 - Eric Gill:
-* Gill sans
-* Perpetua
+Gill sans
+Perpetua
 
 - Max Medinger:
-* Helvetcia
+Helvetcia
 
 -Erik Spiekerman:
-* Officina sans
-* Officina serif
+Officina sans
+Officina serif
 
 - Elements of typographic style
 - Just my type - Simon Garfield
 - Stop stealing sheep
 - Thinking with type
 
-- Ones to watch
+Ones to watch
+-------------
 * Little thunder
 * Tim Potter
 * Lefft.com
