@@ -10,27 +10,27 @@ Caves to kells
 
 ###Some designers
 
-*Albrecht Durer, 1471 - 1528
-*Francessco Griffo, 1450 - 1518
-*John Baserville, 1706 - 1775
-*Nicholas Jenson, 1420 - 1480
-*William Caslon, 1693 - 1766
-*Giambattista Bodoni, 1740 - 1813
-*Claude Garamont, 1490 - 1561
-*Vicent Friggins, 1766 - 1844
+* Albrecht Durer, 1471 - 1528
+* Francessco Griffo, 1450 - 1518
+* John Baserville, 1706 - 1775
+* Nicholas Jenson, 1420 - 1480
+* William Caslon, 1693 - 1766
+* Giambattista Bodoni, 1740 - 1813
+* Claude Garamont, 1490 - 1561
+* Vicent Friggins, 1766 - 1844
 
 ###Type designers
 
 - Eric Gill:
-*Gill sans
-*Perpetua
+* Gill sans
+* Perpetua
 
 - Max Medinger:
-*Helvetcia
+* Helvetcia
 
 -Erik Spiekerman:
-*Officina sans
-*Officina serif
+* Officina sans
+* Officina serif
 
 - Elements of typographic style
 - Just my type - Simon Garfield
@@ -38,12 +38,12 @@ Caves to kells
 - Thinking with type
 
 - Ones to watch
-*Little thunder
-*Tim Potter
-*Lefft.com
-*poppy.com
-*Jordanm.com
-*David Henderson
+* Little thunder
+* Tim Potter
+* Lefft.com
+* poppy.com
+* Jordanm.com
+* David Henderson
 
 - When it comes to projects
 
